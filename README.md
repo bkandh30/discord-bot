@@ -4,7 +4,7 @@ This is my python solution to John Crickett's Coding Challenge: [Build Your Own 
 
 ## Description
 
-This is a simple implementation of a Discord bot written in Python using (discord.py)[https://discordpy.readthedocs.io/en/stable/]
+This is a simple implementation of a Discord bot written in Python using [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
 The bot supports the following functionalities:
 
